@@ -1,0 +1,2 @@
+# Python - Exceptions
+readme file
